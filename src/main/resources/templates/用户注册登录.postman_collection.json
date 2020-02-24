@@ -90,7 +90,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n\t\"name\":\"appelyk\",\n\t\"password\":\"123456a\"\n}",
+					"raw": "{\n\t\"name\":\"appelyk\",\n\t\"password\":\"'';drop table if exists t_user_info;\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
